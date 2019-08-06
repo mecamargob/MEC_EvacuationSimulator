@@ -1,0 +1,23 @@
+________________________
+ ------CHANGE LOG------ 
+
+2019.07.18
+First published version (Spanish only)
+	* Version tested in multiple windows versions, Itel and AMD processors.
+	* Preference loading feature from .csv file, editable by user.
+	* Scenario Save and Load features, in .sd files.
+	* Plan image Load and Scale features. The Load features works with image local paths and url.
+	* Walls and Obstacles Creation and Edition features.
+		* Edition feature allows to move, scale, rotate and delete the walls and obstacles.
+	* Exit (from the building) Creation and Edition features.
+		* Edition feature allows to move and delete the exits.
+	* Agent Creation and Edition features. 
+		* Agents can be created with the following properties:
+			* Agent Age (type), the speed and size of the agent type can be defined in the preferences file.
+			* Agent Training Level.
+			* Agent Space Knowledge Level.
+			* Number of agents to create.
+		* Edition feature allows to move, rotate and delete the agents.
+	* Route calculation for the simulation based on the vertex of the walls and obstacles.
+	* Simulation execution with mandatory data exportation in csv files.
+	* User Manual (only in spanish).

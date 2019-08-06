@@ -1,0 +1,23 @@
+_______________________
+--REGISTRO DE CAMBIOS--
+
+2019.07.18
+Primera versión Publicada (Solamente en español)
+	* Versión probada en multiples versiones de Windows, y procesadores Intel y AMD.
+	* Funcionalidad de cargado de preferencias desde un archivo .csv, que puede ser editado por el usuario.
+	* Funcionalidad de guardado y cargado de escenarios, en archivos .sd.
+	* Funcionalidad de cargado y escalado de una imagen del plano del edificio que se simulará. Se pueden cargar imágenes desde el pc o desde una url.
+	* Funcionalidad de creación y edición de Muros y Obstáculos.
+		* La funcionalidad de edición permite mover, cambiar el tamaño, rotar y borrar los muros y obstáculos.
+	* Funcionalidad de creación y edición de las salidas del edificio.
+		* La funcionalidad de edición permite mover y borrar las salidas.
+	* Funcionalidad de creación y edición de agentes. 
+		* Los agentes pueden ser creados con las siguientes propiedades:
+			* Edad del agente (o tipo del agente), la velocidad y tamaño del tipo de agente puede ser definida en el archivo de preferencias.
+			* Nivel de entrenamiento del agente.
+			* Nivel de conocimiento del espacio del agente.
+			* Numero de agentes a crear.
+		* La funcionalidad de edición permite mover, rotar y borrar los agentes.
+	* Calculo de rutas para la simulación con base en los vértices de los muros y obstáculos.
+	* Ejecución de la simulación con exportación de los datos o metricas obligatoria. Dicha exportación se realiza en un archivo .csv.
+	* Manual de usuario en español.
