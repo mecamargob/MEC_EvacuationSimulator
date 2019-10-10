@@ -1,5 +1,11 @@
 ________________________
- ------CHANGE LOG------ 
+ ------CHANGE LOG------
+
+2019.10.10
+Second published version (Spanish only)
+	* Change on the presentation screen of the simulation tool and the user's manual to coincide with the final title of the related academic paper.
+
+----------
 
 2019.07.18
 First published version (Spanish only)
