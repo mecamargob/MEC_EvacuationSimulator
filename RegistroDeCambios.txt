@@ -1,8 +1,14 @@
 _______________________
 --REGISTRO DE CAMBIOS--
 
+2019.10.10
+Segunda versión publicada (Solamente en español)
+	* Modificación de titulo en la pantalla de presentación de la herramienta, y el manual de usuario para ajustarse al titulo final del trabajo académico relacionado
+
+----------
+
 2019.07.18
-Primera versión Publicada (Solamente en español)
+Primera versión publicada (Solamente en español)
 	* Versión probada en multiples versiones de Windows, y procesadores Intel y AMD.
 	* Funcionalidad de cargado de preferencias desde un archivo .csv, que puede ser editado por el usuario.
 	* Funcionalidad de guardado y cargado de escenarios, en archivos .sd.
